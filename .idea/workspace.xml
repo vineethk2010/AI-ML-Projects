@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46d60645-ef15-4655-9a13-34d165933ff9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DDoS_Detection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Holdout.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packet_processor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rnn.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization.py" afterDir="false" />
+    <list default="true" id="46d60645-ef15-4655-9a13-34d165933ff9" name="Changes" comment="Second Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +64,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736296504914</updated>
     </task>
+    <task id="LOCAL-00001" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1737106250963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737106250963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
 </project>
